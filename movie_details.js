@@ -1,0 +1,1 @@
+// No JavaScript needed for this page anymore since we removed the hamburger
